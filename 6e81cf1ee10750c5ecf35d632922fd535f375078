@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "128415d7_44a8ca42",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020840
+      },
+      "writtenOn": "2023-01-16T09:58:53Z",
+      "side": 1,
+      "message": "Hi im from Katalon",
+      "revId": "6e81cf1ee10750c5ecf35d632922fd535f375078",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
